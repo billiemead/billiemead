@@ -1,3 +1,5 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=billiemead&theme=dark&background=000000)](https://git.io/streak-stats)
+
 #### Detail-oriented Senior Web Developer specializing in PHP web application frameworks; Laravel, WordPress, Magento and Drupal. Excels at engineering, coding and deploying modular and scalable websites for a diverse range of businesses, institutions and enterprises. Highly proficient at transforming concepts into solutions and working collaboratively with graphic designers, marketing teams and other developers using agile best-practices. Have established a stellar reputation working for a leading web development recruiting firm Creative Circle developing projects for high-profile clients; Harvard University, Fenway Health Hospital, ProcureAbility, the Atlantic Council, Health Products Express, Herrman Advertising, the DeCarb America lower carbon emissions initiative and Varian Medical Systems.
 
 > References, GitHub repository access and coding samples provided upon request.
